@@ -1,5 +1,5 @@
 {
-    "token": "NzcyMTc0MTY2MjcwNDEwNzkz.X521Ow.vAoyL81Sspw-nvimVUm1N0aWZKM",
+    "token": "TOKEN",
     "prefix": "k!",
-    "mongoPass":"mongodb+srv://Keqing:kaczka34@keqing.ys3pj.mongodb.net/Keqing?retryWrites=true&w=majority"
+    "mongoPass":"DBPASS"
 }
